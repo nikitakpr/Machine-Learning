@@ -15,10 +15,10 @@ Logistic Regression
 
 ## Insights :pencil:
 
-![ScreenShot 1](ZReadme_img/output_PCA.png)
+![ScreenShot 1](Result/output_PCA.png)
 
-![ScreenShot 2](ZReadme_img/output_Linear_Regression.png)
+![ScreenShot 2](Result/output_Linear_Regression.png)
 
-![ScreenShot 3](ZReadme_img/output_logistic_regression.png)
+![ScreenShot 3](Result/output_logistic_regression.png)
 
 
